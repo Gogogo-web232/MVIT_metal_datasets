@@ -63,6 +63,24 @@ We release two metal surface defect datasets with instance-level pixel annotatio
 [Download Link(baiduyun)](https://pan.baidu.com/s/1uYLvkAdRHw3TKjiJIHuO1A?pwd=uk4f) | [Alternative links(google drive)](https://drive.google.com/drive/folders/1f9UpmgPlYF2i7s83XP09sc_k7PIT1bNM?usp=sharing)
 
 ## 📜 Citation
+```bibtex
+@article{liu2025advancing,
+  title={Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset},
+  author={Liu, Chuni and Li, Hongjie and Du, Jiaqi and Hou, Yangyang and Sun, Qian and Jin, Lei and Xu, Ke},
+  journal={arXiv preprint arXiv:2509.18919},
+  year={2025}
+}
+
+@article{li2025few,
+  title={A Few-Shot Steel Surface Defect Generation Method Based on Diffusion Models},
+  author={Li, Hongjie and Liu, Yang and Liu, Chuni and Pang, Hongxuan and Xu, Ke},
+  journal={Sensors},
+  volume={25},
+  number={10},
+  pages={3038},
+  year={2025},
+  publisher={MDPI}
+}
 
 ## 📧 Contact
 For dataset inquiries or collaboration opportunities:  📧 [xuke@ustb.edu.cn](mailto:xuke@ustb.edu.cn) 📧 [chuniliu@xs.ustb.edu.cn](mailto:chuniliu@xs.ustb.edu.cn)
