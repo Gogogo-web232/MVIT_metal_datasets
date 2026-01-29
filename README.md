@@ -81,6 +81,7 @@ We release two metal surface defect datasets with instance-level pixel annotatio
   year={2025},
   publisher={MDPI}
 }
+```
 
 ## 📧 Contact
 For dataset inquiries or collaboration opportunities:  📧 [xuke@ustb.edu.cn](mailto:xuke@ustb.edu.cn) 📧 [chuniliu@xs.ustb.edu.cn](mailto:chuniliu@xs.ustb.edu.cn)
