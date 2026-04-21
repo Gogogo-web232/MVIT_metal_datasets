@@ -2,7 +2,7 @@
 *Provided by Machine Vision and Industrial Testing Laborator (MVIT Lab).*
 
 ## 📌 Overview
-We release two metal surface defect datasets with instance-level pixel annotations: Casting Billet and Steel Pipe, as well as a Medium and Heavy Plate Surface Defect Dataset annotated in YOLO format.
+We release two metal surface defect datasets with instance-level pixel annotations: Casting Billet and Steel Pipe. Additionally, we provide a Medium and Heavy Plate Surface Defect Dataset annotated in YOLO format, along with an unlabeled bridge damage dataset.
 
 ## 🗃️ Datasets
 ### 1. Casting Billet Dataset
