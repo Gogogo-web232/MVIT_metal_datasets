@@ -34,6 +34,19 @@ We release two metal surface defect datasets with instance-level pixel annotatio
   - Striated Scale (Ss)(120 samples)
   - Foreign Object Embedding (Foe)(120 samples)
 
+### 4. Bridge Damage Dataset
+- **Images**: 781 (489 defective) + 21 Sets of Evolutionary Defects
+- **Resolution**: 47x51 to 1,782 x 1,457
+- **Defect Types**:
+  - Blistering
+  - Corrosion
+  - crack
+  - Discoloration
+  - rust
+  - scratch
+  - crack-Corrosion
+  - crack-rust
+
 ## ✏️ Annotation Process
 
 1. **AI Pre-segmentation**  
